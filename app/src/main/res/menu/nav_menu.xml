@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Fragment 1"
+        android:id="@+id/fragment1"
+        android:icon="@drawable/ic_launcher_foreground" />
+
+    <item android:title="Fragment 2"
+        android:id="@+id/fragment22"
+        android:icon="@drawable/ic_launcher_foreground" />
+
+    <item android:title="Fragment 3"
+        android:id="@+id/fragment3"
+        android:icon="@drawable/ic_launcher_foreground" />
+
+    <item android:title="Fragment 4"
+        android:id="@+id/fragment4"
+        android:icon="@drawable/ic_launcher_foreground" />
+</menu>
